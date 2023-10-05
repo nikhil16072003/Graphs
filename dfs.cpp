@@ -43,3 +43,16 @@ int main() {
 
     return 0;
 }
+
+//Example test case
+/*
+Inputs
+n=5
+0 2
+2 1
+2 4
+4 3
+1 3
+
+output:
+0 2 1 3 4 */
